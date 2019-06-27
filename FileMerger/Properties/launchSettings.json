@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileMerger": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\VS Tests\\FileMerger"
+    }
+  }
+}
